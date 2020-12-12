@@ -1,0 +1,15 @@
+{
+  "name": "juejinreptile",
+  "version": "1.0.0",
+  "description": "just try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenliangliang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-xlsx": "^0.15.0"
+  }
+}
